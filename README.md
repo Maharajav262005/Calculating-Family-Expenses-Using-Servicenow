@@ -14,7 +14,7 @@ The system uses interlinked tables and real-time automation (Business Rules) to 
 | :--- | :--- |
 | Team ID | NM2025TMID04510 |
 | Project Name | Calculating Family Expenses using ServiceNow |
-| Team Size | (Implied - Team members vary across sprints) |
+| Team Size | 4 |
 | Date | 03 November 2025 |
 
 ---
@@ -29,7 +29,7 @@ The project repository and documentation are organized into the following key ph
 | /project-design-phase | Documents the Problem-Solution Fit, the Proposed Solution details (e.g., using two linked tables ), and initial system workflow analysis. |
 | /project-planning-phase | Includes the Product Backlog with detailed User Stories (e.g., setting monthly budgets ), Sprint Plans, and velocity calculations. |
 | /requirement-analysis | Defines the necessity for an automated system that automates calculations, classifies entries, and provides user-friendly reporting. |
-| /performance-testing | (Placeholder for test plans verifying automation and accuracy with sample data). |
+| /performance-testing |  test plans verifying automation and accuracy. |
 | /architecture | Describes the system's structure, including the Family Expenses and Daily Expenses tables, and the use of the Business Rule for automation. |
 | /product-backlog | Lists prioritized features, User Stories (e.g., Budget Setup, Alerts & Notifications), and Story Point estimates. |
 
@@ -41,8 +41,8 @@ This section provides links to see the working solution.
 
 | Resource | Link |
 | :--- | :--- |
-| Demo Video | 🎥 [Demo Video Link Placeholder] |
-| ServiceNow Instance | 🔗 [ServiceNow Instance Link Placeholder] |
+| Demo Video | 🎥(https://drive.google.com/file/d/1GUkbOU-pHVKiP5_3eNcBu5zEojL1Yjlf/view?usp=sharing) |
+
 
 ---
 
